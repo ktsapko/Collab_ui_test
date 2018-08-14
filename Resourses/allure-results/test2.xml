@@ -20,7 +20,7 @@
                 <attachment title="makeScreenshot" source="8a01fa4c-4bea-4dea-83c6-1d57e8db19f5-attachment.png" type="image/png" size="7129"/>
             </attachments>
             <labels>
-                <label name="host" value="nb-kit"/>
+                <label name="host" value=""/>
                 <label name="thread" value="10320@nb-kit.main(1)"/>
             </labels>
         </test-case>
